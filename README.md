@@ -8,3 +8,4 @@ Usage:
    
     yum install spectool
 
+    make rpms
