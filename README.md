@@ -1,6 +1,6 @@
-This will build RPMs for the pyfacter library.
+Simple RPM builder for facterpy library.
+Facterpy is a python library for puppet facter.
 
-I wish Python had better native RPM support. 
 
 Usage:
 
