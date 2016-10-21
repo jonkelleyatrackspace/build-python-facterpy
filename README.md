@@ -1,4 +1,9 @@
 This will build RPMs for the pyfacter library.
 
-Run: make rpms
+I wish Python had better native RPM support. 
+
+Usage:
+
+   yum groupinstall "Development Tools"
+   yum install spectool
 
